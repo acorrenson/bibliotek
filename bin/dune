@@ -1,0 +1,5 @@
+(executable
+  (name tek)
+  (public_name tek)
+  (package bibliotek)
+  (libraries cmdliner))
